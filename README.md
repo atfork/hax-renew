@@ -1,1 +1,1 @@
-# hax-renew
+# Hax 小鸡自动化续期
